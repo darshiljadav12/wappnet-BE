@@ -1,0 +1,236 @@
+[
+  {
+    "name": "John Doe",
+    "number": "555-0101",
+    "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+    "tags": ["friend", "work"]
+  },
+  {
+    "name": "Jane Smith",
+    "number": "555-0102",
+    "avatar": "https://randomuser.me/api/portraits/women/1.jpg",
+    "tags": ["family"]
+  },
+  {
+    "name": "Michael Johnson",
+    "number": "555-0103",
+    "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+    "tags": ["work"]
+  },
+  {
+    "name": "Emily Davis",
+    "number": "555-0104",
+    "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+    "tags": ["friend", "family"]
+  },
+  {
+    "name": "David Williams",
+    "number": "555-0105",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "tags": ["work"]
+  },
+  {
+    "name": "Sophia Brown",
+    "number": "555-0106",
+    "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+    "tags": ["family", "work"]
+  },
+  {
+    "name": "Daniel Wilson",
+    "number": "555-0107",
+    "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+    "tags": ["friend"]
+  },
+  {
+    "name": "Olivia Moore",
+    "number": "555-0108",
+    "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+    "tags": ["friend", "work"]
+  },
+  {
+    "name": "James Taylor",
+    "number": "555-0109",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "tags": ["work"]
+  },
+  {
+    "name": "Isabella Anderson",
+    "number": "555-0110",
+    "avatar": "https://randomuser.me/api/portraits/women/5.jpg",
+    "tags": ["family"]
+  },
+  {
+    "name": "Ethan Thomas",
+    "number": "555-0111",
+    "avatar": "https://randomuser.me/api/portraits/men/6.jpg",
+    "tags": ["work", "friend"]
+  },
+  {
+    "name": "Ava Jackson",
+    "number": "555-0112",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "tags": ["family"]
+  },
+  {
+    "name": "Matthew Harris",
+    "number": "555-0113",
+    "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+    "tags": ["work"]
+  },
+  {
+    "name": "Charlotte Martin",
+    "number": "555-0114",
+    "avatar": "https://randomuser.me/api/portraits/women/7.jpg",
+    "tags": ["friend"]
+  },
+  {
+    "name": "Benjamin Garcia",
+    "number": "555-0115",
+    "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
+    "tags": ["family", "work"]
+  },
+  {
+    "name": "Amelia Rodriguez",
+    "number": "555-0116",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "tags": ["work"]
+  },
+  {
+    "name": "Lucas Martinez",
+    "number": "555-0117",
+    "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+    "tags": ["friend", "family"]
+  },
+  {
+    "name": "Mia Perez",
+    "number": "555-0118",
+    "avatar": "https://randomuser.me/api/portraits/women/9.jpg",
+    "tags": ["family"]
+  },
+  {
+    "name": "Alexander Lee",
+    "number": "555-0119",
+    "avatar": "https://randomuser.me/api/portraits/men/10.jpg",
+    "tags": ["work"]
+  },
+  {
+    "name": "Lily Gonzalez",
+    "number": "555-0120",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "tags": ["friend", "work"]
+  },
+  {
+    "name": "Jack Wilson",
+    "number": "555-0121",
+    "avatar": "https://randomuser.me/api/portraits/men/11.jpg",
+    "tags": ["family"]
+  },
+  {
+    "name": "Zoe Clark",
+    "number": "555-0122",
+    "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
+    "tags": ["friend"]
+  },
+  {
+    "name": "Henry Lewis",
+    "number": "555-0123",
+    "avatar": "https://randomuser.me/api/portraits/men/12.jpg",
+    "tags": ["work"]
+  },
+  {
+    "name": "Grace Young",
+    "number": "555-0124",
+    "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+    "tags": ["work", "family"]
+  },
+  {
+    "name": "William Walker",
+    "number": "555-0125",
+    "avatar": "https://randomuser.me/api/portraits/men/13.jpg",
+    "tags": ["friend"]
+  },
+  {
+    "name": "Chloe Allen",
+    "number": "555-0126",
+    "avatar": "https://randomuser.me/api/portraits/women/13.jpg",
+    "tags": ["work"]
+  },
+  {
+    "name": "Owen King",
+    "number": "555-0127",
+    "avatar": "https://randomuser.me/api/portraits/men/14.jpg",
+    "tags": ["family"]
+  },
+  {
+    "name": "Luna Wright",
+    "number": "555-0128",
+    "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+    "tags": ["friend", "work"]
+  },
+  {
+    "name": "Gabriel Scott",
+    "number": "555-0129",
+    "avatar": "https://randomuser.me/api/portraits/men/15.jpg",
+    "tags": ["work"]
+  },
+  {
+    "name": "Ella Green",
+    "number": "555-0130",
+    "avatar": "https://randomuser.me/api/portraits/women/15.jpg",
+    "tags": ["family"]
+  },
+  {
+    "name": "James Adams",
+    "number": "555-0131",
+    "avatar": "https://randomuser.me/api/portraits/men/16.jpg",
+    "tags": ["work", "friend"]
+  },
+  {
+    "name": "Harper Nelson",
+    "number": "555-0132",
+    "avatar": "https://randomuser.me/api/portraits/women/16.jpg",
+    "tags": ["family"]
+  },
+  {
+    "name": "Aiden Carter",
+    "number": "555-0133",
+    "avatar": "https://randomuser.me/api/portraits/men/17.jpg",
+    "tags": ["work"]
+  },
+  {
+    "name": "Evelyn Mitchell",
+    "number": "555-0134",
+    "avatar": "https://randomuser.me/api/portraits/women/17.jpg",
+    "tags": ["friend"]
+  },
+  {
+    "name": "Sebastian Perez",
+    "number": "555-0135",
+    "avatar": "https://randomuser.me/api/portraits/men/18.jpg",
+    "tags": ["work", "family"]
+  },
+  {
+    "name": "Mila Roberts",
+    "number": "555-0136",
+    "avatar": "https://randomuser.me/api/portraits/women/18.jpg",
+    "tags": ["family"]
+  },
+  {
+    "name": "Caleb Turner",
+    "number": "555-0137",
+    "avatar": "https://randomuser.me/api/portraits/men/19.jpg",
+    "tags": ["friend", "work"]
+  },
+  {
+    "name": "Aria Collins",
+    "number": "555-0138",
+    "avatar": "https://randomuser.me/api/portraits/women/19.jpg",
+    "tags": ["work"]
+  },
+  {
+    "name": "Daniel Young",
+    "number": "555-0139",
+    "avatar": "https://randomuser.me/api/portraits/men/20.jpg",
+    "tags": ["family"]
+  }
+]
